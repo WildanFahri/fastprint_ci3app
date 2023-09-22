@@ -1,4 +1,4 @@
-# Test Junior Programer Fastprint Indonesia
+# Test Junior Programmer Fastprint Indonesia
 
 ## Data Diri
 
@@ -9,7 +9,7 @@
 
 ## Keterangan
 
-Sebelumnya terimakasih saya sampaikan kepada [Fastprint Indonesia](https://fastprint.co.id) karena telah memberi saya kesempatan untuk mengikuti test sebagai **Junior Programer**.
+Sebelumnya terimakasih saya sampaikan kepada [Fastprint Indonesia](https://fastprint.co.id) karena telah memberi saya kesempatan untuk mengikuti test sebagai **Junior Programmer**.
 
 Dari ketentuan yang sudah diberikan, saya membuat sebuah website dengan memanfaatkan framework [Codeigniter 3](https://codeigniter.com/userguide3/) dan menggunakan [MYSQL](https://www.mysql.com/) sebagai databasenya.
 

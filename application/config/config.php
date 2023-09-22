@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/ci_produk';
+$config['base_url'] = 'http://localhost/fastprint_ci3app';
 
 /*
 |--------------------------------------------------------------------------
